@@ -26,7 +26,7 @@ Below is an example of how a feature branch works. In this example you can see a
 
 This branch possibilite the QA team to test the new feature without affecting the master/main branch. Once the feature is complete, it can be merged back into the master/main branch.
 
-![Feature branch animated image](images/images/features-branches.gif)
+![Feature branch animated image](images/features-branches.gif)
 
 ---
 By [fabioDeveloper.com](https://www.fabioDeveloper.com) & [CriarProgramas.com](https://www.criarprogramas.com) | 2023
